@@ -10,8 +10,11 @@
     "cookie-parser": "~1.4.3",
     "debug": "~2.2.0",
     "ejs": "~2.5.2",
+    "enhance": "0.0.7",
     "express": "~4.14.0",
+    "image-size": "^0.5.5",
     "image-watermark": "0.0.7",
+    "jimp": "^0.2.28",
     "morgan": "~1.7.0",
     "serve-favicon": "~2.3.0"
   },
